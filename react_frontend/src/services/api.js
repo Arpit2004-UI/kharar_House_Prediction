@@ -1,4 +1,4 @@
-const BASE = '/api';
+const BASE = 'https://kharar-house-prediction.onrender.com/api';
 
 /**
  * POST house features → returns { success, price } or { success, error }
