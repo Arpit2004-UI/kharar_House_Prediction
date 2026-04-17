@@ -1,7 +1,7 @@
 # 🏠 House Price Predictor — React + Flask
 
 Full-stack web app to predict house prices in the Kharar / Mohali area.
-Gradient Boosting model with **R² = 0.94**.
+Gradient Boosting model with **R² = 0.83**.
 
 ---
 
